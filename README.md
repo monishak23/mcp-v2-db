@@ -2,10 +2,10 @@
 MCP architecture to make database call
 
 ## Description
-Created a todo list that has basic crud operations.
-Created an MCP server with insert, get and delete tools.
-An MCP client with gemini model to use the tools and provide the response.
-Used MYSQL database and established connection to server.
+- Created a todo list that has basic crud operations.
+- Created an MCP server with insert, get and delete tools.
+- An MCP client with gemini model to use the tools and provide the response.
+- Used MYSQL database and established connection to server.
 
 ## Need for MCP
 
